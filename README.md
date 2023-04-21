@@ -1,6 +1,8 @@
 # Recommendation-System-FM
 This project aims to build a recommendation system using MXNet models and AWS SageMaker Factorization Machines Algorithm. We will be using the Movielens dataset, which is a popular movie rating dataset containing a large number of ratings from users for movies. We will build a model that predicts the rating a user would give a movie based on their past ratings and preferences.
 
+![Image](https://user-images.githubusercontent.com/83855692/233700163-2ef2f715-7c46-4bb7-8875-d4ee06088694.png)
+
 ## Prerequisites
 
 To run this project, you will need the following:
